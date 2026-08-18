@@ -1,6 +1,6 @@
 public class Greeter {
     public String greet(String name) {
-        return "Hello, " + name + "LeapBron is the best team name ever";
+        return "Hello, " + name + "LeapBron has the most aura ever";
     
     }
 }
